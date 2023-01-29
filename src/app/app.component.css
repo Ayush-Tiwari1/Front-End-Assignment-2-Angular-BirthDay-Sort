@@ -1,0 +1,21 @@
+.main{
+    background-color: rgb(193, 255, 193);
+    align-items: center;
+    justify-content: center;
+    /* margin:50px; */
+}
+.main-container{
+    align-items: center;
+    justify-content: center;
+    margin:0px 500px;
+    padding:50px 100px;
+}
+/* .div-cont{
+    display:flex;
+} */
+table{
+    background-color: aliceblue;
+}
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
